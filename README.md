@@ -6,3 +6,4 @@ Alur fitur login :
 3. Memvalidasi pengguna dengan firut deteksi wajah
 4. Memasukkan nama ibu untuk validasi
 5. Menampilkan halaman home
+I am editing the README file. Adding some more details about the project description.
